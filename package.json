@@ -1,0 +1,26 @@
+{
+  "name": "huluanpao_hangzhou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "html5shiv": "^3.7.3",
+    "jquery": "^2.0.0",
+    "respond.js": "^1.4.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^0.10.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

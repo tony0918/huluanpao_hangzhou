@@ -8,21 +8,21 @@ module.exports = function (grunt) {
         //        banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
       },
       production: {
-        src: 'src/js/*.js',
+        src: 'js/*.js',
         dest: 'dist/js/main.min.js'
       }
     },
     watch: {
-      files: ['src/less/**/*.less'],
+      files: ['less/**/*.less'],
       tasks: ['less', 'autoprefixer']
     },
     less: {
       development: {
         options: {
-          paths: ["src/less/parts"]
+          paths: ["less/parts"]
         },
         files: {
-          'src/css/main.css': 'src/less/main.less'
+          'css/main.css': 'less/main.less'
         }
       }
     },
@@ -31,13 +31,13 @@ module.exports = function (grunt) {
         browsers: ['last 8 versions']
       },
       development: {
-        src: 'src/css/main.css'
+        src: 'css/main.css'
       }
     },
     cssmin: {
       production: {
         files: {
-          'src/css/main.min.css': 'src/css/main.css'
+          'css/main.min.css': 'css/main.css'
         }
       }
     }

@@ -6,6 +6,6 @@
 
 <div class="container-fluid" id="footer">
 	<div class="row">
-		<p class="text-center">© 2016-2017 <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备14023412号</a></p>
+		<p class="text-center">© 2017 <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备14023412号</a></p>
 	</div>
 </div>

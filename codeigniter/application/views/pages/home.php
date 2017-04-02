@@ -127,18 +127,24 @@
 			<h1>赞助商</h1>
 			<h4>Sponsor</h4>
 		</div>
-		<div class="col-md-8 col-md-offset-2 col-xs-12">
+		<div class="col-md-12 col-xs-12">
 			<div class="row">
-				<div class="col-md-3 first col-xs-12">
+				<div class="col-md-2 first col-xs-12">
 					<img src="<?php echo $baseUrl; ?>images/sponsor1.jpg" class="img-responsive center-block" alt="">
 				</div>
-				<div class="col-md-3 sponsor-logo col-xs-12">
+				<div class="col-md-2 sponsor-logo col-xs-12">
 					<img src="<?php echo $baseUrl; ?>images/sponsor2.jpg" class="img-responsive center-block" alt="">
 				</div>
-				<div class="col-md-3 sponsor-logo col-xs-12">
+				<div class="col-md-2 sponsor-logo col-xs-12">
 					<img src="<?php echo $baseUrl; ?>images/sponsor3.jpg" class="img-responsive center-block" alt="">
 				</div>
-				<div class="col-md-3 sponsor-logo col-xs-12 last">
+				<div class="col-md-2 sponsor-logo col-xs-12 last">
+					<img src="<?php echo $baseUrl; ?>images/sponsor4.jpg" class="img-responsive center-block" alt="">
+				</div>
+				<div class="col-md-2 sponsor-logo col-xs-12">
+					<img src="<?php echo $baseUrl; ?>images/sponsor3.jpg" class="img-responsive center-block" alt="">
+				</div>
+				<div class="col-md-2 sponsor-logo col-xs-12 last">
 					<img src="<?php echo $baseUrl; ?>images/sponsor4.jpg" class="img-responsive center-block" alt="">
 				</div>
 			</div>

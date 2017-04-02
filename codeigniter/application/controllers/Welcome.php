@@ -21,7 +21,7 @@ class Welcome extends CI_Controller {
 	public function index() {
 		$timezone = new DateTimeZone('Asia/Shanghai');
 		$now = new DateTime('NOW', $timezone);
-		$target = new DateTime('2017-6-17 8:30:00', $timezone);
+		$target = new DateTime('2017-6-17 15:30:00', $timezone);
 		$dif = $target->diff($now, TRUE);
 		$options = array('d' => 0, 'h' => 0, 'i' => 0);
 		if ($now < $target) {

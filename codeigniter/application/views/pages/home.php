@@ -56,7 +56,7 @@
 						<!--<p class="text-right read-more-link">Read More</p>-->
 					</div>
 				</div>
-				<div class="col-md-4 col-xs-12">
+				<div class="col-md-4 col-xs-12 col-md-offset-2">
 					<div><img src="<?php echo $baseUrl; ?>images/kv7.jpg" class="img-responsive" alt=""></div>
 					<div class="caption">
 						<h3>Coffee 咖啡</h3>
@@ -88,6 +88,7 @@
 						<br>那么
 						<br>你对于美好人生的定义是什么
 						<br>它需要由哪些元素构成
+						<br>
 						<br>是爱是自由
 						<br>还是咖啡和啤酒<br>
 						<br><b>" ALL WE NEED IS… "</b>

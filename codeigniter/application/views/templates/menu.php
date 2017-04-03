@@ -22,7 +22,7 @@
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 								赛事专题<span class="caret"></span></a>
 							<ul class="dropdown-menu">
-<!--								<li><a href="#">有关赛事</a></li>-->
+								<!--								<li><a href="#">有关赛事</a></li>-->
 								<li><a href="<?php echo $baseUrl; ?>race/rule.html">赛事规程</a></li>
 								<!--								<li><a href="#">赛事线路图</a></li>-->
 								<!--								<li><a href="#">交通和酒店</a></li>-->
@@ -40,7 +40,7 @@
 						<li><a href="#">赛事赞助</a></li>
 						<li class="last flag">
 							<a href="#" class="pull-left active"><img src="<?php echo $baseUrl; ?>images/flag1.jpg" alt=""></a>
-<!--							<a href="--><?php //echo $baseUrl; ?><!--en" class="pull-left"><img src="--><?php //echo $baseUrl; ?><!--images/flag2.jpg" alt=""></a>-->
+							<a href="<?php echo $baseUrl; ?>en" class="pull-left"><img src="<?php echo $baseUrl; ?>images/flag2.jpg" alt=""></a>
 						</li>
 					</ul>
 				</div><!-- /.navbar-collapse -->

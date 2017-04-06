@@ -7,13 +7,13 @@
 <div class="container" id="pages-content">
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2 col-xs-10 col-xs-offset-1">
-			<h3 class="page-title text-center">2017 Run for Beauty FAQ</h3>
+			<h3 class="page-title text-center">2017 Run For Beauty FAQ</h3>
 			<div class="text-block">
 				<h4 class="text-title">I. Regarding Registration</h4>
 				<p><b>1. Qualification</b></p>
 				<p>（1）Anyone with legal ID and in good health condition, regardless of nationality, can register for the
 					race. </p>
-				<p>（2）Age limit: Participants in either Lover - 12km Doubles or Available - 22km Singles must be at least 18
+				<p>（2）Age limit: Participants in either Lover - 12km Doubles or Available - 21km Singles must be at least 18
 					years old on the race day ( born before June 17, 1999 ) and must be in good health condition and have been
 					doing long distance running on a regular basis.</p>
 				<p>（3）Patients of the following diseases are not in suitable health condition for the race: congenital heart
@@ -23,29 +23,29 @@
 			</div>
 
 			<div class="text-block">
-				<p><b>2. How to register for 2017 Run for Beauty</b></p>
-				<p>Log onto the official website of 2017 Run for Beauty, <a href="http://hangzhou.huluanpao.com">http://hangzhou.huluanpao.com</a>
+				<p><b>2. How to register for 2017 Run For Beauty</b></p>
+				<p>Log onto the official website of 2017 Run For Beauty, <a href="http://hangzhou.huluanpao.com">hangzhou.huluanpao.com</a>
 					, to register.</p>
 				<p>Important notes:</p>
 				<p>（1）Once registered successfully, please query your bib number and download the race packet pickup slip at the
 					official website of the race. You will have to pick up your race gear at fxoutdoor shihu bridge store(No. 8
-					shihu Bridge Road,Xiacheng District,Hangzhou) with your race packet pickup slip and original ID on June 16
-					from 10 a.m. to 8 p.m. or on June 17 from 8 a.m. to 2 p.m. ( Once registered successfully online, all
-					participants are required to visit the Registration Status Check menu at the official website of 2017 Run for
-					Beauty to query their bib numbers, download the race packet pickup slips and sign the statement of the race.
-					)</p>
+					shihu Bridge Road,Xiacheng District,Hangzhou, TEL:0571-87022117) with your race packet pickup slip and
+					original ID on June 16 from 10 a.m. to 8 p.m. or on June 17 from 8 a.m. to 2 p.m. ( Once registered
+					successfully online, all participants are required to visit the Registration Status Check menu at the official
+					website of 2017 Run For Beauty to query their bib numbers, download the race packet pickup slips and sign the
+					statement of the race. )</p>
 				<p>（2）It's suggested that you follow the official Wechat account of Huluanpao, 湖乱跑, to get the up - to - date
 					information on the race.</p>
 			</div>
 
 			<div class="text-block">
 				<p><b>3. Events and Open Period for Registration</b></p>
-				<p>Both events: April 6, 2017, 10 a.m. - June 1, 2017, 5 p.m. or sellout</p>
+				<p>Both events: April 6, 2017, 10 a.m. - June 1, 2017, 5 p.m. or sell out.</p>
 			</div>
 
 			<div class="text-block">
 				<p><b>4. Places</b></p>
-				<p>900 places in total: 150 teams ( 300 people ) in Lover - 12km Doubles, 600 people in Available - 22km
+				<p>400 places in total: 100 teams ( 200 people ) in Lover - 12km Doubles, 200 people in Available - 21km
 					Singles. Registration of either event will be closed when all its places are sold out.</p>
 			</div>
 
@@ -65,7 +65,7 @@
 							<td>380 RMB per team</td>
 						</tr>
 						<tr>
-							<td>Available - 22km Singles</td>
+							<td>Available - 21km Singles</td>
 							<td>280 RMB per person</td>
 						</tr>
 						</tbody>
@@ -83,7 +83,7 @@
 				<p>（1）After payment the site will show that you’ve successfully registered and a confirmation email will be sent
 					to the email address used for registration.</p>
 				<p>（2）After payment you’ll be able to check your registration status in the Registration Status Check menu at
-					the official site of 2017 Run for Beauty.</p>
+					the official site of 2017 Run For Beauty.</p>
 				<p>（3）Please query your bib number and download the race packet pickup slip at the official website between June
 					5 and June 17 after registration is completed.</p>
 			</div>
@@ -111,9 +111,9 @@
 					website for more detailed information. )</h4>
 				<p><b>1. Race Packet Pickup</b></p>
 				<p>Participants who have successfully registered for the race will have to pick up their race gear at fxoutdoor
-					shihu bridge store(No. 8 shihu Bridge Road,Xiacheng District,Hangzhou) with their race packet pickup slips and
-					original IDs on June 16, Friday, from 10 a.m. to 8 p.m., or on June 17, Saturday, from 8 a.m. to 2 p.m. The
-					race gear will include a bib number, a timing chip, a backsack and so on. </p>
+					shihu bridge store(No. 8 shihu Bridge Road,Xiacheng District,Hangzhou, TEL:0571-87022117) with their race
+					packet pickup slips and original IDs on June 16, Friday, from 10 a.m. to 8 p.m., or on June 17, Saturday, from
+					8 a.m. to 2 p.m. The race gear will include a bib number, a timing devices, a backsack and so on.</p>
 			</div>
 
 			<div class="text-block">
@@ -139,8 +139,8 @@
 				<p>The race will be started at 3:30 p.m., so part of the participants will still be racing during the night.
 					Additionally, the weather condition could be unpredictable. Therefore participants are required to carry with
 					them the following mandatory gear as well as the recommended gear based on their own needs. The race committee
-					will not do gear check, but will spot check mandatory gear in the process of the race. If any participants are
-					found not carrying all mandatory gear, the committee has the right to disqualify them.</p>
+					will not do gear check before the race, but will spot check mandatory gear in the process of the race. If any
+					participants are found not carrying all mandatory gear, the committee has the right to disqualify them.</p>
 			</div>
 
 			<div class="text-block">
@@ -175,7 +175,7 @@
 						<thead>
 						<tr>
 							<th class="text-center">Event</th>
-							<th class="text-center">The Finish</th>
+							<th class="text-center">Cut-Off Time</th>
 						</tr>
 						</thead>
 						<tbody>
@@ -184,7 +184,7 @@
 							<td>3 hours</td>
 						</tr>
 						<tr>
-							<td>Available - 22km Singles</td>
+							<td>Available - 21km Singles</td>
 							<td>4 hours</td>
 						</tr>
 						</tbody>
@@ -226,7 +226,7 @@
 				<p><b>12. Will there be trophies and awards?</b></p>
 				<p>1) Lover - 12km Doubles: the top three teams( official time ) in Man - Woman group, Man - Man group and Woman
 					- Woman group will be awarded respectively;</p>
-				<p>2) Available - 22km Singles: the top three male and female runners( official time ) will be awarded
+				<p>2) vailable - 21km Singles: the top three male and female runners( official time ) will be awarded
 					respectively;</p>
 				<p>3) Both events: Runners who finish the race within the time limits will receive a finisher’s award. Please
 					note that in Lover - 12km Doubles both team members must arrive at the finish location at the same time within

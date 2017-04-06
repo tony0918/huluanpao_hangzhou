@@ -9,42 +9,26 @@
 		<div class="col-md-12" id="main-content-grid">
 			<div class="row">
 				<div class="col-md-4 col-xs-12">
-					<div><img src="<?php echo $baseUrl; ?>images/kv1.jpg" class="img-responsive" alt=""></div>
-					<div class="caption">
-						<h3>Love</h3>
-						<h5>嘿，你爱我吗？ 嗯，看我的眼神。</h5>
-						<!--<p class="text-right read-more-link"><a href="#">Read More</a></p>-->
-					</div>
-				</div>
-				<div class="col-md-4 col-xs-12">
-					<div><img src="<?php echo $baseUrl; ?>images/kv2.jpg" class="img-responsive" alt=""></div>
-					<div class="caption">
-						<h3>Sex & Health</h3>
-						<h5>爱如氧气</h5>
-						<!--<p class="text-right read-more-link">Read More</p>-->
-					</div>
-				</div>
-				<div class="col-md-4 col-xs-12">
 					<div><img src="<?php echo $baseUrl; ?>images/kv3.jpg" class="img-responsive" alt=""></div>
 					<div class="caption">
 						<h3>Mountain</h3>
-						<h5>它令我着迷，使我专注。</h5>
-						<!--<p class="text-right read-more-link">Read More</p>-->
+						<h5>Mountains fascinate me and require my concentration.</h5>
+						<!--<p class="text-right read-more-link"><a href="#">Read More</a></p>-->
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-12">
 					<div><img src="<?php echo $baseUrl; ?>images/kv4.jpg" class="img-responsive" alt=""></div>
 					<div class="caption">
 						<h3>Freedom</h3>
-						<h5>对，奔跑起来，你就能拥有自由。</h5>
+						<h5>Yes, just run, and you will find freedom.</h5>
 						<!--<p class="text-right read-more-link">Read More</p>-->
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-12">
-					<div><img src="<?php echo $baseUrl; ?>images/kv5.jpg" class="img-responsive" alt=""></div>
+					<div><img src="<?php echo $baseUrl; ?>images/kv1.jpg" class="img-responsive" alt=""></div>
 					<div class="caption">
-						<h3>Smile</h3>
-						<h5>跑向初恋般的微笑</h5>
+						<h3>Love</h3>
+						<h5>Do you love me? Yes, look into my eyes.</h5>
 						<!--<p class="text-right read-more-link">Read More</p>-->
 					</div>
 				</div>
@@ -52,15 +36,7 @@
 					<div><img src="<?php echo $baseUrl; ?>images/kv6.jpg" class="img-responsive" alt=""></div>
 					<div class="caption">
 						<h3>Joy</h3>
-						<h5>欢乐如烟火般绚烂。</h5>
-						<!--<p class="text-right read-more-link">Read More</p>-->
-					</div>
-				</div>
-				<div class="col-md-4 col-xs-12 col-md-offset-2">
-					<div><img src="<?php echo $baseUrl; ?>images/kv7.jpg" class="img-responsive" alt=""></div>
-					<div class="caption">
-						<h3>Coffee</h3>
-						<h5>宝贝，起床啦，你的咖啡。</h5>
+						<h5>Joy is as gorgeous as fireworks.</h5>
 						<!--<p class="text-right read-more-link">Read More</p>-->
 					</div>
 				</div>
@@ -68,7 +44,31 @@
 					<div><img src="<?php echo $baseUrl; ?>images/kv8.jpg" class="img-responsive" alt=""></div>
 					<div class="caption">
 						<h3>Beer</h3>
-						<h5>Dear, beer。</h5>
+						<h5>Dear, beer</h5>
+						<!--<p class="text-right read-more-link">Read More</p>-->
+					</div>
+				</div>
+				<div class="col-md-4 col-xs-12">
+					<div><img src="<?php echo $baseUrl; ?>images/kv5.jpg" class="img-responsive" alt=""></div>
+					<div class="caption">
+						<h3>Smile</h3>
+						<h5>Run to the smile as sweet as your first love.</h5>
+						<!--<p class="text-right read-more-link">Read More</p>-->
+					</div>
+				</div>
+				<div class="col-md-4 col-xs-12 col-md-offset-2">
+					<div><img src="<?php echo $baseUrl; ?>images/kv2.jpg" class="img-responsive" alt=""></div>
+					<div class="caption">
+						<h3>Sex & Health</h3>
+						<h5>Love is like oxygen.</h5>
+						<!--<p class="text-right read-more-link">Read More</p>-->
+					</div>
+				</div>
+				<div class="col-md-4 col-xs-12">
+					<div><img src="<?php echo $baseUrl; ?>images/kv7.jpg" class="img-responsive" alt=""></div>
+					<div class="caption">
+						<h3>Coffee</h3>
+						<h5>Up, honey! Here is your coffee.</h5>
 						<!--<p class="text-right read-more-link">Read More</p>-->
 					</div>
 				</div>
@@ -127,27 +127,27 @@
 	<div class="row">
 		<div class="text-center col-md-12 section-title">
 			<h1>Sponsor</h1>
-<!--			<h4>Sponsor</h4>-->
+			<!--			<h4>Sponsor</h4>-->
 		</div>
 		<div class="col-md-12 col-xs-12">
 			<div class="row">
 				<div class="col-md-2 first col-xs-12">
-					<img src="<?php echo $baseUrl; ?>images/sponsor1.jpg" class="img-responsive center-block" alt="">
+					<img src="<?php echo $baseUrl; ?>images/sponsor1.png" class="img-responsive center-block" alt="">
 				</div>
 				<div class="col-md-2 sponsor-logo col-xs-12">
-					<img src="<?php echo $baseUrl; ?>images/sponsor2.jpg" class="img-responsive center-block" alt="">
+					<img src="<?php echo $baseUrl; ?>images/sponsor2.png" class="img-responsive center-block" alt="">
 				</div>
 				<div class="col-md-2 sponsor-logo col-xs-12">
-					<img src="<?php echo $baseUrl; ?>images/sponsor3.jpg" class="img-responsive center-block" alt="">
+					<img src="<?php echo $baseUrl; ?>images/sponsor3.png" class="img-responsive center-block" alt="">
+				</div>
+				<div class="col-md-2 sponsor-logo col-xs-12">
+					<img src="<?php echo $baseUrl; ?>images/sponsor4.png" class="img-responsive center-block" alt="">
+				</div>
+				<div class="col-md-2 sponsor-logo col-xs-12">
+					<img src="<?php echo $baseUrl; ?>images/sponsor5.png" class="img-responsive center-block" alt="">
 				</div>
 				<div class="col-md-2 sponsor-logo col-xs-12 last">
-					<img src="<?php echo $baseUrl; ?>images/sponsor4.jpg" class="img-responsive center-block" alt="">
-				</div>
-				<div class="col-md-2 sponsor-logo col-xs-12">
-					<img src="<?php echo $baseUrl; ?>images/sponsor3.jpg" class="img-responsive center-block" alt="">
-				</div>
-				<div class="col-md-2 sponsor-logo col-xs-12 last">
-					<img src="<?php echo $baseUrl; ?>images/sponsor4.jpg" class="img-responsive center-block" alt="">
+					<img src="<?php echo $baseUrl; ?>images/sponsor6.png" class="img-responsive center-block" alt="">
 				</div>
 			</div>
 		</div>

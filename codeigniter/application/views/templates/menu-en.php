@@ -24,8 +24,9 @@
 							<ul class="dropdown-menu">
 								<!--								<li><a href="#">有关赛事</a></li>-->
 								<li><a href="<?php echo $baseUrl; ?>en/race/rule.html">Competition</a></li>
-								<!--								<li><a href="#">赛事线路图</a></li>-->
+								<li><a href="<?php echo $baseUrl; ?>en/race/map.html">Route Map</a></li>
 								<!--								<li><a href="#">交通和酒店</a></li>-->
+								<li><a href="https://weidian.com/?userid=1141077221&wfr=c" target="_blank">Wechat Shop</a></li>
 								<li><a href="<?php echo $baseUrl; ?>en/race/faq.html">FAQ</a></li>
 							</ul>
 						</li>
@@ -34,14 +35,16 @@
 								REGISTRATION<span class="caret"></span></a>
 							<ul class="dropdown-menu">
 								<li><a href="<?php echo $baseUrl; ?>en/signup/guidelines.html">Registration Note</a></li>
+								<li><a href="<?php echo $baseUrl; ?>en/signup.html">Register Immediately</a></li>
+								<li><a href="<?php echo $baseUrl; ?>en/signup/query.html">Registration Status Check</a></li>
 							</ul>
 						</li>
 						<li>
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 								RESULT AND PHOTOS<span class="caret"></span></a>
 							<ul class="dropdown-menu">
-								<li><a href="<?php echo $baseUrl; ?>en/signup/guidelines.html">Query Result</a></li>
-								<li><a href="<?php echo $baseUrl; ?>en/signup/guidelines.html">Photo Download</a></li>
+								<li><a href="<?php echo $baseUrl; ?>en/result.html">Query Result</a></li>
+								<li><a href="<?php echo $baseUrl; ?>en/photos.html">Photo Download</a></li>
 							</ul>
 						</li>
 						<li><a href="#">SPONSOR</a></li>

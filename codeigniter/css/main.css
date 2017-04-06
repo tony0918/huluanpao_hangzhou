@@ -12,7 +12,7 @@ body {
   padding: 0;
   margin-left: 5px;
   line-height: 34px;
-  margin-top: 28px;
+  margin-top: 20px;
 }
 .navbar .flag a.active {
   border-bottom: 3px solid #009471;
@@ -25,13 +25,13 @@ body {
   height: auto;
 }
 .nav li {
-  min-height: 97px;
+  min-height: 76px;
 }
 .nav li > a {
   color: #000;
   font-weight: 600;
   font-size: 18px;
-  line-height: 97px;
+  line-height: 76px;
   padding: 0 20px;
   margin: 0;
   border-bottom: solid 4px transparent;
@@ -196,5 +196,5 @@ body {
   }
 }
 .en .nav li > a {
-  font-size: 16px;
+  font-size: 14px;
 }

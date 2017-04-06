@@ -23,9 +23,10 @@
 								赛事专题<span class="caret"></span></a>
 							<ul class="dropdown-menu">
 								<!--								<li><a href="#">有关赛事</a></li>-->
-								<li><a href="<?php echo $baseUrl; ?>race/rule.html">赛事规程</a></li>
-								<!--								<li><a href="#">赛事线路图</a></li>-->
+								<li><a href="<?php echo $baseUrl; ?>race/rule.html">竞赛规程</a></li>
+								<li><a href="<?php echo $baseUrl; ?>race/map.html">赛事线路图</a></li>
 								<!--								<li><a href="#">交通和酒店</a></li>-->
+								<li><a href="https://weidian.com/?userid=1141077221&wfr=c" target="_blank">官方微店</a></li>
 								<li><a href="<?php echo $baseUrl; ?>race/faq.html">常见问题</a></li>
 							</ul>
 						</li>
@@ -34,9 +35,17 @@
 								赛事报名<span class="caret"></span></a>
 							<ul class="dropdown-menu">
 								<li><a href="<?php echo $baseUrl; ?>signup/guidelines.html">报名须知</a></li>
+								<li><a href="<?php echo $baseUrl; ?>signup.html">立即报名</a></li>
+								<li><a href="<?php echo $baseUrl; ?>signup/query.html">报名查询</a></li>
 							</ul>
 						</li>
-						<li><a href="#">成绩与照片</a></li>
+						<li>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								成绩与照片<span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="<?php echo $baseUrl; ?>result.html">成绩查询</a></li>
+								<li><a href="<?php echo $baseUrl; ?>photos.html">照片下载</a></li>
+							</ul>
 						<li><a href="#">赛事赞助</a></li>
 						<li class="last flag">
 							<a href="#" class="pull-left active"><img src="<?php echo $baseUrl; ?>images/flag1.jpg" alt=""></a>

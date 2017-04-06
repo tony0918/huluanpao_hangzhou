@@ -7,7 +7,7 @@
 <div class="container" id="pages-content">
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2 col-xs-10 col-xs-offset-1">
-			<h3 class="page-title text-center">Competition Rules of 2017 Run for Beauty</h3>
+			<h3 class="page-title text-center">Competition Rules of 2017 Run For Beauty</h3>
 			<div class="text-block">
 				<h4 class="text-title">I. Host</h4>
 				<p>Shanghai Skyview Sport Co., Ltd.</p>
@@ -30,8 +30,8 @@
 
 			<div class="text-block">
 				<h4 class="text-title">V. Open Period for Registration</h4>
-				<p>1. April 6, 2017 - June 1, 2017 or sellout</p>
-				<p>2. Please refer to "Registration Guide of 2017 Run for Beauty" for detailed information on how to
+				<p>1. April 6, 2017 - June 1, 2017 or sell out</p>
+				<p>2. Please refer to "Registration Guide of 2017 Run For Beauty" for detailed information on how to
 					register.</p>
 			</div>
 
@@ -39,22 +39,22 @@
 				<h4 class="text-title">VI. Events</h4>
 				<p>1. Lover - 12km Doubles, two runners as a team ( could be formed by a man and a woman, two men or two women
 					); with an aggregate elevation gain of 476m.</p>
-				<p>2. Available - 22km Singles, an individual man or woman; with an aggregate elevation gain of xxx m.</p>
+				<p>2. Available - 21km Singles, an individual man or woman; with an aggregate elevation gain of 890 m.</p>
 			</div>
 
 			<div class="text-block">
 				<h4 class="text-title">VII. Course</h4>
-				<p>Please refer to the official website and "Race Brochure" for detailed information on the course.</p>
+				<p>Please refer to the official website and Race Brochure for detailed information on the course.</p>
 			</div>
 
 			<div class="text-block">
 				<h4 class="text-title">VIII. Registration</h4>
-				<p>1. Participants of either Lover - 12km group or Available - 22km group must be at least 18 years old on the
+				<p>1. Participants of either Lover - 12km group or Available - 21km group must be at least 18 years old on the
 					race day, June 17, 2017, and must be in a good health condition that is suitable for the race.</p>
-				<p>2. Lover - 12km group is limited to 150 teams. Available - 22km group is limited to 600 people. Registration
+				<p>2. Lover - 12km group is limited to 100 teams. Available - 21km group is limited to 200 people. Registration
 					will be closed when all places are sold out.</p>
 				<p>3. Please follow the "Registration Guide" to register for the race.</p>
-				<p>4. Patients of the following diseases are not in suitable health condition for 2017 Run for Beauty:
+				<p>4. Patients of the following diseases are not in suitable health condition for 2017 Run For Beauty:
 					congenital heart disease and rheumatic heart disease, hypertension and cerebrovascular disease, myocarditis
 					and other heart diseases, coronary artery disease and server irregular heartbeat, diabetes and other diseases
 					that are not suitable for sports.</p>
@@ -75,7 +75,7 @@
 						<thead>
 						<tr>
 							<th class="text-center">Event</th>
-							<th class="text-center">The Finish</th>
+							<th class="text-center">Cut-Off Time</th>
 						</tr>
 						</thead>
 						<tbody>
@@ -84,7 +84,7 @@
 							<td>3 hours</td>
 						</tr>
 						<tr>
-							<td>Available - 22km Singles</td>
+							<td>Available - 21km Singles</td>
 							<td>4 hours</td>
 						</tr>
 						</tbody>
@@ -96,8 +96,9 @@
 					<br>The race will be started at 3 : 30 p.m., so part of the participants will still be racing during the
 					night. Additionally, the weather condition could be unpredictable. Therefore participants are required to
 					carry with them the following mandatory gear as well as the recommended gear based on their own needs. The
-					race committee will not do gear check, but will spot check mandatory gear in the process of the race. If any
-					participants are found not carrying all mandatory gear, the committee has the right to disqualify them.
+					race committee will not do gear check before the race, but will spot check mandatory gear in the process of
+					the race. If any participants are found not carrying all mandatory gear, the committee has the right to
+					disqualify them.
 				</p>
 				<p>Mandatory Gear List:
 					<br>1) 1 x fully charged mobile phone;
@@ -122,12 +123,12 @@
 					<br>7) Waterproof zip - lock bag.
 				</p>
 				<p>6. Please refer to "Race Brochure" for detailed requirements and arrangements of the race. ( The manual will
-					be delivered along with bib number and timing chip. )</p>
+					be delivered along with bib number and timing devices. )</p>
 				<p>7. Participants who foul in the following ways will be disqualified and banned from this race within two
 					years.
 					<br>1) Age falsification or swapping bibs with someone else after registration;
-					<br>2) Wearing others' timing chips ( including male athletes wearing female athletes' timing chips ), or
-					wearing more than one timing chip in the race;
+					<br>2) Wearing others’ timing devices ( including male athletes wearing female athletes’ timing devices ), or
+					wearing more than one timing devices in the race;
 					<br>3) Regardless of the start sequence, setting off in wrong corrals;
 					<br>4) Starting off ahead of the regulated start time;
 					<br>5) Refusing to stop running after cut-off time or returning to the course after quitting the race;
@@ -145,7 +146,7 @@
 				<h4 class="text-title">X. Awards</h4>
 				<p>1. Lover - 12km Doubles: the top three teams( official time ) in Man - Woman group, Man - Man group and Woman
 					- Woman group will be awarded respectively;</p>
-				<p>2. Available - 22km Singles: the top three male and female runners( official time ) will be awarded
+				<p>2. Available - 21km Singles: the top three male and female runners( official time ) will be awarded
 					respectively;</p>
 				<p>3. Both events: Runners who finish the race within the time limits will receive a finisher’s award. Please
 					note that in Lover - 12km Doubles both team members must arrive at the finish location at the same time within
@@ -182,11 +183,11 @@
 
 			<div class="text-block">
 				<h4 class="text-title">XIII. How to Contact the Committee</h4>
-				<p>The race committee of 2017 Run for Beauty</p>
+				<p>The race committee of 2017 Run For Beauty</p>
 				<p>Address: Room 312, Building 10A, No.619, LongChang Road, Yangpu District, Shanghai</p>
 				<p>Tel: 021 - 6567 3828</p>
 				<p>Postcode: 200090</p>
-				<p>Official Website of 2017 Run for Beauty: <a href="http://hangzhou.huluanpao.com">http://hangzhou.huluanpao.com</a>
+				<p>Official Website of 2017 Run For Beauty: <a href="http://hangzhou.huluanpao.com">hangzhou.huluanpao.com</a>
 				</p>
 				<p>Email: <a href="mailto:service@skyviewsport.com">service@skyviewsport.com</a></p>
 			</div>
@@ -201,12 +202,12 @@
 			</div>
 
 			<div class="text-block">
-				<h4 class="text-title">XVI. The committee of 2017 Run for Beauty reserves the right of the final interpretation
+				<h4 class="text-title">XVI. The committee of 2017 Run For Beauty reserves the right of the final interpretation
 					of this "Competition Rules".</h4>
 			</div>
 
 			<div class="text-block">
-				<p class="text-right">Race committee of 2017 Run for Beauty</p>
+				<p class="text-right">Race committee of 2017 Run For Beauty</p>
 				<p class="text-right">March, 2017</p>
 			</div>
 

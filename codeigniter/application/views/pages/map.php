@@ -1,23 +1,32 @@
 <div class="container-fluid">
-  <div class="row header-banner">
-    <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-<!--    <h4 class="page-title hidden-xs text-center col-md-12">2017汇添富南京山地马拉松赛事路线图</h4>-->
-  </div>
+	<div class="row">
+		<img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="kv" class="img-responsive"/>
+	</div>
 </div>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">2017汇添富南京山地马拉松赛事路线图</h3>
+<div class="container" id="pages-content">
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2 col-xs-10 col-xs-offset-1">
+			<h3 class="page-title text-center">2017 Run For Beauty 赛事路线图</h3>
 
-      <div class="text-block">
-        <p>
-          <a onclick="_hmt.push(['_trackEvent', 'img:map', 'click', 'map_2016.jpg','cn']);" href="<?php echo $baseUrl; ?>assets/map_original.jpg" target="_blank">
-            <img src="<?php echo $baseUrl; ?>assets/map.jpg" alt="" class="img-responsive"/>
-          </a>
-        </p>
-      </div>
+			<div class="text-block">
+				<h4 class="text-title">1. Lover – 12公里双人组</h4>
+				<p>
+					<a href="<?php echo $baseUrl; ?>images/map_12original.jpg" target="_blank">
+						<img src="<?php echo $baseUrl; ?>images/map_12.jpg" alt="" class="img-responsive"/>
+					</a>
+				</p>
+			</div>
 
-    </div>
-  </div>
+			<div class="text-block">
+				<h4 class="text-title">2.	Available – 21公里单人组</h4>
+				<p>
+					<a href="<?php echo $baseUrl; ?>images/map_21original.jpg" target="_blank">
+						<img src="<?php echo $baseUrl; ?>images/map_21.jpg" alt="" class="img-responsive"/>
+					</a>
+				</p>
+			</div>
+
+		</div>
+	</div>
 </div>

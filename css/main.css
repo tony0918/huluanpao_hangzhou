@@ -125,6 +125,9 @@ body {
   padding-top: 80px;
   padding-bottom: 140px;
 }
+#sponsor .logo-line {
+  padding-bottom: 10px;
+}
 #sponsor .sponsor-logo {
   border-left: 3px solid #13b5b1;
 }
@@ -145,7 +148,8 @@ body {
   text-decoration: none;
 }
 #pages-content {
-  padding: 15px 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 #pages-content .page-title {
   color: #009471;
@@ -193,6 +197,9 @@ body {
   }
   .navbar .flag a {
     margin-top: 0;
+  }
+  .qqvideo {
+    height: auto;
   }
 }
 .en .nav li > a {

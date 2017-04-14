@@ -13,13 +13,13 @@
 	<script src="<?php echo $baseUrl; ?>libs/js/respond.min.js"></script>
 	<![endif]-->
 	<script>
-		//		var _hmt = _hmt || [];
-		//		(function () {
-		//			var hm = document.createElement("script");
-		//			hm.src = "//hm.baidu.com/hm.js?eb0ee90a8dd33f70cb269d87f1d085c0";
-		//			var s = document.getElementsByTagName("script")[0];
-		//			s.parentNode.insertBefore(hm, s);
-		//		})();
+		var _hmt = _hmt || [];
+		(function () {
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?4a5f6b6616adb4a5c3a72ae7d05b0b5f";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
 	</script>
 </head>
 <body>

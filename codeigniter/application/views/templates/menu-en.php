@@ -22,10 +22,9 @@
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 								EVENTS<span class="caret"></span></a>
 							<ul class="dropdown-menu">
-								<!--								<li><a href="#">有关赛事</a></li>-->
 								<li><a href="<?php echo $baseUrl; ?>en/race/rule.html">Competition</a></li>
 								<li><a href="<?php echo $baseUrl; ?>en/race/map.html">Route Map</a></li>
-								<!--								<li><a href="#">交通和酒店</a></li>-->
+								<li><a href="<?php echo $baseUrl; ?>en/race/accommodation.html">Transportation and Hotel</a></li>
 								<li><a href="https://weidian.com/?userid=1141077221&wfr=c" target="_blank">Wechat Shop</a></li>
 								<li><a href="<?php echo $baseUrl; ?>en/race/faq.html">FAQ</a></li>
 							</ul>

@@ -25,7 +25,7 @@
 								<!--								<li><a href="#">有关赛事</a></li>-->
 								<li><a href="<?php echo $baseUrl; ?>race/rule.html">竞赛规程</a></li>
 								<li><a href="<?php echo $baseUrl; ?>race/map.html">赛事线路图</a></li>
-								<!--								<li><a href="#">交通和酒店</a></li>-->
+								<li><a href="<?php echo $baseUrl; ?>race/accommodation.html">交通和酒店</a></li>
 								<li><a href="https://weidian.com/?userid=1141077221&wfr=c" target="_blank">官方微店</a></li>
 								<li><a href="<?php echo $baseUrl; ?>race/faq.html">常见问题</a></li>
 							</ul>

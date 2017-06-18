@@ -151,13 +151,16 @@
 			</div>
 			<div class="row logo-line">
 				<div class="col-md-2 first col-xs-12">
-					<img src="<?php echo $baseUrl; ?>images/sponsor7.png" class="img-responsive center-block" alt="">
+					<img src="<?php echo $baseUrl; ?>images/sponsor11.png" class="img-responsive center-block" alt="">
 				</div>
 				<div class="col-md-2 sponsor-logo col-xs-12">
-					<img src="<?php echo $baseUrl; ?>images/sponsor8.png" class="img-responsive center-block" alt="">
+					<img src="<?php echo $baseUrl; ?>images/sponsor10.png" class="img-responsive center-block" alt="">
+				</div>
+				<div class="col-md-2 sponsor-logo col-xs-12">
+					<img src="<?php echo $baseUrl; ?>images/sponsor7.png" class="img-responsive center-block" alt="">
 				</div>
 				<div class="col-md-2 sponsor-logo col-xs-12 last">
-					<img src="<?php echo $baseUrl; ?>images/sponsor6.png" class="img-responsive center-block" alt="">
+					<img src="<?php echo $baseUrl; ?>images/sponsor8.png" class="img-responsive center-block" alt="">
 				</div>
 			</div>
 		</div>

@@ -38,7 +38,7 @@
 		<div class="col-sm-12 col-md-8 col-md-offset-2">
 			<div class="text-center">
 				<p>
-					<a class="btn btn-default btn-lg" href="#" target="_blank">查看更多</a>
+					<a class="btn btn-default btn-lg" href="http://iranshao.com/races/8496/albums?year=2017" target="_blank">查看更多</a>
 				</p>
 			</div>
 		</div>

@@ -15,8 +15,8 @@
 
 			<div class="text-center">
 				<p>
-					<a class="btn btn-default btn-lg"
-						href="#" target="_blank">Query Now</a></p>
+					<a class="btn btn-default btn-lg" href="http://m.iranshao.com/results/events/1185?show_link=false" target="_blank">Query
+						Now</a></p>
 			</div>
 
 			<div class="text-center">

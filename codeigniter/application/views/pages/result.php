@@ -15,8 +15,7 @@
 
 			<div class="text-center">
 				<p>
-					<a class="btn btn-default btn-lg"
-						href="#" target="_blank">立即查询</a>
+					<a class="btn btn-default btn-lg" href="http://m.iranshao.com/results/events/1185?show_link=false" target="_blank">立即查询</a>
 				</p>
 			</div>
 
